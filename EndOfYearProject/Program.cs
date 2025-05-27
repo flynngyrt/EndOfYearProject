@@ -10,16 +10,18 @@ namespace EndOfYearProject
     {
         static void Main(string[] args)
         {
-            string userName;
-            string password;
+            string[] userName = { "admin", "user" };
+            string[] passWord= { "adminpass", "userpass" };
+            int i
             Console.WriteLine("--------------------------Welcometo the Bus App--------------------------------------");
             Console.WriteLine("This app will let you search for bus routes and get Prices for those respected routes");
             Console.WriteLine("Enter yo name");
-            userName = Console.ReadLine();
+            userName[2] = Console.ReadLine();
             Console.WriteLine("Enter your password");
-            password = Console.ReadLine();
+            passWord[2] = Console.ReadLine();
             Console.WriteLine("flynntest");
-            if (userName = true)
+
+            if (userName = i; i = "admin")
             {
                 Console.WriteLine("Welcome admin!");
             }
