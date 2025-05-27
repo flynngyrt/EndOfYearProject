@@ -28,7 +28,7 @@ namespace EndOfYearProject
             {
                 Console.WriteLine("Welcome user!");
             }
-            Console.WriteLine("something");
+            Console.WriteLine("test");
         }
     }
 }
