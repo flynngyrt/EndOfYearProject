@@ -20,8 +20,8 @@ namespace EndOfYearProject
             Console.WriteLine("Enter your password");
             passWord[2] = Console.ReadLine();
             Console.WriteLine("ryantest");
-
-            if () ;
+            i = 0;
+            if (userName[i] i = 1; i++)
             {
                 Console.WriteLine("Welcome admin");
 
