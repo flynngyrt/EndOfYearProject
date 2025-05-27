@@ -12,7 +12,7 @@ namespace EndOfYearProject
         {
             string[] userName = { "admin", "user" };
             string[] passWord= { "adminpass", "userpass" };
-            int i
+            int i;
             Console.WriteLine("--------------------------Welcometo the Bus App--------------------------------------");
             Console.WriteLine("This app will let you search for bus routes and get Prices for those respected routes");
             Console.WriteLine("Enter yo name");
@@ -21,15 +21,18 @@ namespace EndOfYearProject
             passWord[2] = Console.ReadLine();
             Console.WriteLine("flynntest");
 
-            if (userName = i; i = "admin")
+            if () ;
             {
                 Console.WriteLine("Welcome admin!");
-            }
+
+
             else
-            {
-                Console.WriteLine("Welcome user!");
+
+                {
+                    Console.WriteLine("Welcome user!");
+                }
             }
-            Console.WriteLine("something");
+                Console.WriteLine("test2, test 3, a lot of test to see if its actually working, more text to test");
         }
     }
 }
