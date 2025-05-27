@@ -19,7 +19,7 @@ namespace EndOfYearProject
             Console.WriteLine("Enter your password");
             password = Console.ReadLine();
             Console.WriteLine("Wow");
-            if (userName = true)
+            if (userName == "Yes")
             {
                 Console.WriteLine("Welcome admin!");
             }
@@ -27,7 +27,7 @@ namespace EndOfYearProject
             {
                 Console.WriteLine("Welcome user!");
             }
-
+            Console.WriteLine("something");
         }
     }
 }
