@@ -18,7 +18,7 @@ namespace EndOfYearProject
             userName = Console.ReadLine();
             Console.WriteLine("Enter your password");
             password = Console.ReadLine();
-            Console.WriteLine("");
+            Console.WriteLine("uyt");
             if (userName = true)
             {
                 Console.WriteLine("Welcome admin!");
