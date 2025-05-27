@@ -23,7 +23,7 @@ namespace EndOfYearProject
 
             if () ;
             {
-                Console.WriteLine("Welcome admin!");
+                Console.WriteLine("Welcome admin");
 
 
             else
