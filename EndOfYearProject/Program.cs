@@ -32,7 +32,7 @@ namespace EndOfYearProject
                     Console.WriteLine("Welcome user!");
                 }
             }
-                Console.WriteLine("test2, test 3, a lot of test to see if its actually working, more text to test");
+                Console.WriteLine("test2");
         }
     }
 }
